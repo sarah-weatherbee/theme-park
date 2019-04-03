@@ -1,0 +1,151 @@
+{
+    "rides":[
+        {
+            "id": "ride1",
+            "name": "Space Mountain",
+            "duration": 120,
+            "type": "coaster",
+            "heightReq": 50,
+            "intensity": "high",
+            "ridersPerTurn": 12,
+            "imageUrl": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/space-mountain/space-mountain-00.jpg?1549059331252",
+            "isOperating": true,
+            "waitTime": 45,
+            "bodyCount": 0,
+            "lastFatality": "1/01/1901"
+        },
+        {
+            "id": "ride2",
+            "name": "Teacups",
+            "duration": 180,
+            "type": "kiddie",
+            "heightReq": 0,
+            "intensity": "low",
+            "ridersPerTurn": 50,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TeacupsMadTeaParty_wb.jpg/250px-TeacupsMadTeaParty_wb.jpg",
+            "isOperating": true,
+            "waitTime": 15,
+            "bodyCount": 100,
+            "lastFatality": "4/01/2019"
+        },
+        {
+            "id": "ride3",
+            "name": "Ferris Wheel",
+            "duration": 30,
+            "type": "kiddie",
+            "heightReq": 4,
+            "intensity": "low",
+            "ridersPerTurn": 30,
+            "imageUrl": "https://bransontracks.com/wp-content/uploads/2017/07/TR_WheelCarStreaks.jpg",
+            "isOperating": false,
+            "waitTime": 20,
+            "bodyCount": 30,
+            "lastFatality": "6/01/2011"
+        },
+        {
+            "id": "ride4",
+            "name": "Gadget Go Coaster",
+            "duration": 300,
+            "type": "coaster",
+            "heightReq": 30,
+            "intensity": "medium",
+            "ridersPerTurn": 25,
+            "imageUrl": "https://i.ytimg.com/vi/_9b2RS7EXVs/hqdefault.jpg",
+            "isOperating": true,
+            "waitTime": 35,
+            "bodyCount": 15,
+            "lastFatality": "3/15/2016"
+        },
+        {
+            "id": "ride5",
+            "name": "Goofy's Sky School",
+            "duration": 150,
+            "type": "kiddie",
+            "heightReq": 55,
+            "intensity": "medium",
+            "ridersPerTurn": 20,
+            "imageUrl": "https://www.tripsavvy.com/thmb/8SgZTUKbOa_hpjwUMp75vkRnx3A=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/6_11_DCA_06316-58f513fb3df78ca1599e3467.jpg",
+            "isOperating": false,
+            "waitTime": 30,
+            "bodyCount": 45,
+            "lastFatality": "5/06/2010"
+        },
+        {
+            "id": "ride6",
+            "name": "Expedition Everest",
+            "duration": 600,
+            "type": "coaster",
+            "heightReq": 70,
+            "intensity": "high",
+            "ridersPerTurn": 10,
+            "imageUrl": "https://amp.thisisinsider.com/images/5b5b47a5bda1c77c008b45d1-750-563.jpg",
+            "isOperating": true,
+            "waitTime": 120,
+            "bodyCount": 10,
+            "lastFatality": "2/28/2009"
+        },
+        {
+            "id": "ride7",
+            "name": "Tron Lightcycle",
+            "duration": 300,
+            "type": "coaster",
+            "heightReq": 75,
+            "intensity": "high",
+            "ridersPerTurn": 20,
+            "imageUrl": "https://cdn-images-1.medium.com/max/1200/1*chYEb7ePe1aaLF9iOlBeYA@2x.jpeg",
+            "isOperating": true,
+            "waitTime": 300,
+            "bodyCount": 13,
+            "lastFatality": "1/14/1995"
+        },
+        {
+            "id": "ride8",
+            "name": "RC Racer",
+            "duration": 100,
+            "type": "kiddie",
+            "heightReq": 40,
+            "intensity": "medium",
+            "ridersPerTurn": 20,
+            "imageUrl": "https://dlptips.com/wp-content/uploads/RC-Racer-1.jpg",
+            "isOperating": true,
+            "waitTime": 100,
+            "bodyCount": 3,
+            "lastFatality": "11/14/1997"
+        },
+        {
+            "id": "ride9",
+            "name": "Barnstormer",
+            "duration": 30,
+            "type": "coaster",
+            "heightReq": 40,
+            "intensity": "medium",
+            "ridersPerTurn": 15,
+            "imageUrl": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/barnstormer-starring-the-great-goofini/barnstormer-starring-great-goofini-00.jpg?1547770291682",
+            "isOperating": true,
+            "waitTime": 50,
+            "bodyCount": 100,
+            "lastFatality": "02/22/2002"
+        },
+
+        {
+            "id": "ride10",
+            "name": "Star Wars Hyperspace",
+            "duration": 600,
+            "type": "coaster",
+            "heightReq": 55,
+            "intensity": "high",
+            "ridersPerTurn": 5,
+            "imageUrl": "https://i.ytimg.com/vi/omu1FwScGe8/maxresdefault.jpg",
+            "isOperating": true,
+            "waitTime": 150,
+            "bodyCount": 30,
+            "lastFatality": "05/05/2018"
+        },
+
+        
+
+    ]
+}
+
+
+
